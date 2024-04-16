@@ -1,8 +1,6 @@
 ### Hi there 👋, my gorgeous friend 
 #### I'm Rakib, a Full Stack Software Developer || ML Enthusiast
-![I'm Rakib, a Full Stack Software Developer || ML Enthusiast][https://yt3.googleusercontent.com/dg59Xdrucn2Oqk_i_O0FQTTwRtCZvLhxHTDC6Fl4JQt5AawNG5mREes1a0QeUtpM71fQSlvP=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj]
-
- copy/paste and use in your profile.
+![I'm Rakib, a Full Stack Software Developer || ML Enthusiast]https://yt3.googleusercontent.com/dg59Xdrucn2Oqk_i_O0FQTTwRtCZvLhxHTDC6Fl4JQt5AawNG5mREes1a0QeUtpM71fQSlvP=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj
 
 Skills: Flutter, Node, Express, MongoDB, Javascript, C++, Python
 
