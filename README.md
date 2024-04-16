@@ -1,6 +1,6 @@
 ### Hi there 👋, my gorgeous friend 
 #### I'm Rakib, a Full Stack Software Developer || ML Enthusiast
-![I'm Rakib, a Full Stack Software Developer || ML Enthusiast](https://media.licdn.com/dms/image/D5616AQF9sqKirY89dg/profile-displaybackgroundimage-shrink_350_1400/0/1707248438993?e=1717632000&v=beta&t=NN4Dqwlb1UmxGIpRjPGM3jhW3xCWYIqmotj-FN6xe3s)
+![I'm Rakib, a Full Stack Software Developer || ML Enthusiast][(https://media.licdn.com/dms/image/D5616AQF9sqKirY89dg/profile-displaybackgroundimage-shrink_350_1400/0/1707248438993?e=1717632000&v=beta&t=NN4Dqwlb1UmxGIpRjPGM3jhW3xCWYIqmotj-FN6xe3s](https://media.licdn.com/dms/image/D5616AQFQc8fvvdYLMw/profile-displaybackgroundimage-shrink_350_1400/0/1713285617121?e=1718841600&v=beta&t=B_fGC7SImArCZjUDUuygqTi_KijHv_HT2i3SAUyWpR8))
 
  copy/paste and use in your profile.
 
